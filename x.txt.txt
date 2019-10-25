@@ -1,3 +1,6 @@
 Add(int x, int y){
   return X+Y;
 }
+Substraction (int x, int y){
+  return X-Y;
+}
